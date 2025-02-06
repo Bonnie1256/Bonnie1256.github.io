@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD student at [Arizona State University](https://www.asu.edu/). 
 
-I currently work at [SEFCOM](https://sefcom.asu.edu/) with [Dr. Fish Wang](https://ruoyuwang.me/) who is my primary advisor. I also closely work with [Dr. Adam Doupé](https://adamdoupe.com/), [Dr. Yan Shoshitaishvili](https://yancomm.net/), [Dr. Tiffany Bao](https://www.tiffanybao.com/). My research interests are in system security, program analysis, with an emphasis on binary analysis and program abstraction.
+I currently work at [SEFCOM](https://sefcom.asu.edu/) with [Dr. Fish Wang](https://ruoyuwang.me/) who is my primary advisor. I also closely work with [Dr. Adam Doupé](https://adamdoupe.com/), [Dr. Yan Shoshitaishvili](https://yancomm.net/) and [Dr. Tiffany Bao](https://www.tiffanybao.com/). My research interests are in system security, program analysis, with an emphasis on binary analysis and program abstraction.
 
-My resume is available [here](/files/cv-BonnieDong.pdf).
+My resumé is available [here](/files/cv-BonnieDong.pdf).
 
 
 Education
