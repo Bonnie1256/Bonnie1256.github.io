@@ -37,6 +37,6 @@ Wil Gibbs, Arvind S Raj, Jayakrishna Menon Vadayath, Hui Jun Tay, Justin Miller,
 
 **Greenhouse: Single-Service Rehosting of Linux-Based Firmware Binaries in User-Space Emulation**
 Hui Jun Tay, Kyle Zeng, Jayakrishna Menon Vadayath, Arvind S Raj, Audrey Dutcher, Tejesh Reddy, Wil Gibbs, Zion Leonahenahe Basque, *Fangzhou Dong*, Zack Smith, Adam Doupé, Tiffany Bao, Yan Shoshitaishvili, Ruoyu Wang  
-* Proceedings of the 32nd USENIX Security Symposium (USENIX Security 23)*
+*Proceedings of the 32nd USENIX Security Symposium (USENIX Security 23)*  
 [pdf](/files/greenhouse-tay.pdf)
 
