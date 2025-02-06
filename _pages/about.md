@@ -9,9 +9,7 @@ redirect_from:
 
 I am a PhD student at [Arizona State University](https://www.asu.edu/). 
 
-I currently work at [SEFCOM](https://sefcom.asu.edu/) with [Dr. Fish Wang](https://ruoyuwang.me/) who is my primary advisor. I also closely work with [Dr. Adam Doupé](https://adamdoupe.com/), [Dr. Yan Shoshitaishvili](https://yancomm.net/), [Dr. Tiffany Bao](https://www.tiffanybao.com/).
-
-My research interests are in system security, program analysis, with an emphasis on binary analysis and program abstraction.
+I currently work at [SEFCOM](https://sefcom.asu.edu/) with [Dr. Fish Wang](https://ruoyuwang.me/) who is my primary advisor. I also closely work with [Dr. Adam Doupé](https://adamdoupe.com/), [Dr. Yan Shoshitaishvili](https://yancomm.net/), [Dr. Tiffany Bao](https://www.tiffanybao.com/). My research interests are in system security, program analysis, with an emphasis on binary analysis and program abstraction.
 
 My resume is available [here](/files/cv-BonnieDong.pdf).
 
@@ -35,7 +33,7 @@ Wil Gibbs, Arvind S Raj, Jayakrishna Menon Vadayath, Hui Jun Tay, Justin Miller,
 *Proceedings of the 33rd USENIX Security Symposium (USENIX Security 24)*  
 [pdf](/files/usenixsecurity24-gibbs.pdf)  
 
-**Greenhouse: Single-Service Rehosting of Linux-Based Firmware Binaries in User-Space Emulation**
+**Greenhouse: Single-Service Rehosting of Linux-Based Firmware Binaries in User-Space Emulation**  
 Hui Jun Tay, Kyle Zeng, Jayakrishna Menon Vadayath, Arvind S Raj, Audrey Dutcher, Tejesh Reddy, Wil Gibbs, Zion Leonahenahe Basque, *Fangzhou Dong*, Zack Smith, Adam Doupé, Tiffany Bao, Yan Shoshitaishvili, Ruoyu Wang  
 *Proceedings of the 32nd USENIX Security Symposium (USENIX Security 23)*  
 [pdf](/files/greenhouse-tay.pdf)
