@@ -11,7 +11,7 @@ I am a PhD student at [Arizona State University](https://www.asu.edu/).
 
 I currently work at [SEFCOM](https://sefcom.asu.edu/) with [Dr. Fish Wang](https://ruoyuwang.me/) who is my primary advisor. I also closely work with [Dr. Adam Doupé](https://adamdoupe.com/), [Dr. Yan Shoshitaishvili](https://yancomm.net/) and [Dr. Tiffany Bao](https://www.tiffanybao.com/). My research interests are in system security, program analysis, with an emphasis on binary analysis and program abstraction.
 
-My resumé is available [here](/files/cv-BonnieDong.pdf).
+My resumé is available [here](/files/resume_Bonnie_Dong-general.pdf).
 
 
 Education
@@ -23,8 +23,13 @@ Publications
 ======
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Vxid0mgAAAAJ&view_op=list_works&sortby=pubdate).
 
+**Discovering Blind-Trust Vulnerabilities in PLC Binaries via State Machine Recovery**
+*Fangzhou Dong*, Arvind S Raj, Efrén López-Morales, Siyu Liu, Yan Shoshitaishvili, Tiffany Bao, Adam Doupé, Muslum Ozgur Ozmen and Ruoyu Wang
+*Proceedings of Network and Distributed System Security (NDSS) Symposium 2026.*
+[pdf](/files/taveren.pdf)
+
 **Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing**  
-Arvind S Raj, Wil Gibbs, *Fangzhou Dong*, Jayakrishna Menon Vadayath, Michael Tompkins, Steven Wirsz, Yibo Liu, Zhenghao Hu, Chang Zhu, Gokul Krishna, Brendan Dolan-Gavitt, Adam Doupé, Ruoyu Wang, Yan Shoshitaishvili, Tiffany Bao  
+Arvind S Raj, Wil Gibbs, *Fangzhou Dong*, Jayakrishna Menon Vadayath, Michael Tompkins, Steven Wirsz, Yibo Liu, Zhenghao Hu, Chang Zhu, Gokulkrishna Praveen Menon, Brendan Dolan-Gavitt, Adam Doupé, Ruoyu Wang, Yan Shoshitaishvili, Tiffany Bao  
 *Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security 2024 (CCS ‘24)*  
 [pdf](/files/flakjack.pdf)
 
