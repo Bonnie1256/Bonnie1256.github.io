@@ -24,7 +24,7 @@ Publications
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Vxid0mgAAAAJ&view_op=list_works&sortby=pubdate).
 
 **Discovering Blind-Trust Vulnerabilities in PLC Binaries via State Machine Recovery**  
-*Fangzhou Dong*, Arvind S Raj, Efrén López-Morales, Siyu Liu, Yan Shoshitaishvili, Tiffany Bao, Adam Doupé, Muslum Ozgur Ozmen and Ruoyu Wang
+*Fangzhou Dong*, Arvind S Raj, Efrén López-Morales, Siyu Liu, Yan Shoshitaishvili, Tiffany Bao, Adam Doupé, Muslum Ozgur Ozmen and Ruoyu Wang  
 *Proceedings of Network and Distributed System Security (NDSS) Symposium 2026.*  
 [pdf](/files/taveren.pdf)
 
