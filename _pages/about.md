@@ -28,6 +28,12 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 *Proceedings of Network and Distributed System Security (NDSS) Symposium 2026.*  
 [pdf](/files/taveren.pdf)
 
+**Toward Concise and High-fidelity Rust Decompilation**  
+Yibo Liu, Zion Leonahenahe Basque, Arvind S Raj, Chavin Udomwongsa, Chang Zhu, Jie Hu, Changyu Zhao, *Fangzhou Dong*, Adam Doupé, Tiffany Bao, Yan Shoshitaishvili, Ruoyu Wang  
+*Proceedings of 47th IEEE Symposium on
+Security and Privacy (IEEE S&P 26)*
+
+
 **Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing**  
 Arvind S Raj, Wil Gibbs, *Fangzhou Dong*, Jayakrishna Menon Vadayath, Michael Tompkins, Steven Wirsz, Yibo Liu, Zhenghao Hu, Chang Zhu, Gokulkrishna Praveen Menon, Brendan Dolan-Gavitt, Adam Doupé, Ruoyu Wang, Yan Shoshitaishvili, Tiffany Bao  
 *Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security 2024 (CCS ‘24)*  
