@@ -26,13 +26,13 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 **Discovering Blind-Trust Vulnerabilities in PLC Binaries via State Machine Recovery**  
 *Fangzhou Dong*, Arvind S Raj, Efrén López-Morales, Siyu Liu, Yan Shoshitaishvili, Tiffany Bao, Adam Doupé, Muslum Ozgur Ozmen and Ruoyu Wang  
 *Proceedings of Network and Distributed System Security (NDSS) Symposium 2026.*  
-[pdf](/files/taveren.pdf)
+[pdf](/files/taveren.pdf)  [talk](https://youtu.be/u4GdgdjKYgM?si=uwRkHWzYxoIjMPhP)  
 
 **Toward Concise and High-fidelity Rust Decompilation**  
 Yibo Liu, Zion Leonahenahe Basque, Arvind S Raj, Chavin Udomwongsa, Chang Zhu, Jie Hu, Changyu Zhao, *Fangzhou Dong*, Adam Doupé, Tiffany Bao, Yan Shoshitaishvili, Ruoyu Wang  
 *Proceedings of 47th IEEE Symposium on
-Security and Privacy (IEEE S&P 26)*
-
+Security and Privacy (IEEE S&P 26)*  
+[pdf](/files/oxidizer.pdf)  
 
 **Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing**  
 Arvind S Raj, Wil Gibbs, *Fangzhou Dong*, Jayakrishna Menon Vadayath, Michael Tompkins, Steven Wirsz, Yibo Liu, Zhenghao Hu, Chang Zhu, Gokulkrishna Praveen Menon, Brendan Dolan-Gavitt, Adam Doupé, Ruoyu Wang, Yan Shoshitaishvili, Tiffany Bao  
@@ -49,3 +49,8 @@ Hui Jun Tay, Kyle Zeng, Jayakrishna Menon Vadayath, Arvind S Raj, Audrey Dutcher
 *Proceedings of the 32nd USENIX Security Symposium (USENIX Security 23)*  
 [pdf](/files/greenhouse-tay.pdf)
 
+
+Invited Talks
+======
+* **Unexpected Inputs, Unsafe Actions: Reasoning About PLC Safety from Binaries**, System Seminar, University of Glasgow, April 2026.
+  
