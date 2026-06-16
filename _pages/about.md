@@ -53,6 +53,6 @@ Hui Jun Tay, Kyle Zeng, Jayakrishna Menon Vadayath, Arvind S Raj, Audrey Dutcher
 Invited Talks
 ======
 **Unexpected Inputs, Unsafe Actions: Reasoning About PLC Safety from Binaries**  
-System Seminar, University of Glasgow, April 2026.  
+*System Seminar, University of Glasgow, April 2026*   
 [slides](https://docs.google.com/presentation/d/1NHM7C931Z_aYHZB9qFbJUtoYd2X8-QIQPXVQdJbdn1c/edit?usp=sharing)  
   
